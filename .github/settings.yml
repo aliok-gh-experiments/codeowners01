@@ -4,6 +4,9 @@ repository:
   name: codeowners01
 
   collaborators:
+    - username: aliok
+      permission: admin
+
     - username: Cali0707
       permission: push
 
