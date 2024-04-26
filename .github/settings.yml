@@ -2,3 +2,10 @@ _extends: .github
 
 repository:
   name: codeowners01
+
+  collaborators:
+    - username: Cali0707
+      permission: push
+
+    - username: Leo6Leo
+      permission: push
